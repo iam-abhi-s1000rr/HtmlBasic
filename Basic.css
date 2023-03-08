@@ -1,0 +1,15 @@
+.heading-class{
+  background-color: cadetblue;
+  font-weight: bold;
+  color: black ;
+  border: 50px;
+  padding-top: 10px;
+}
+
+.table1-div{
+  background-color: aqua;
+  background-size: contain;
+}
+.table-class{
+  background-color: aqua;
+}
